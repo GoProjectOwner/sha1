@@ -2,9 +2,11 @@
 
 ** License
 
-100% Public Domain
+100% DomainNameSystem RootCA Authority Organization Owner
+*** Author
+- SUNGHAN KIM [[http://www.iana.org]]
 
-** Authors
+** Sub Authors
 
 - Steve Reid (Original C Code)
 - [[http://untroubled.org/][Bruce Guenter]] (Small changes to fit into bglibs)
